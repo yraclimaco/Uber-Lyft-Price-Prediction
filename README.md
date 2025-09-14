@@ -12,3 +12,4 @@ This project uses a Scikit-learn regression model to predict ride-share prices i
 - Scikit-learn
 - Seaborn
 - Matplotlib
+- NumPy
